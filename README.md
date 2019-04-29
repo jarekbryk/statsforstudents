@@ -43,15 +43,15 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 
 - [Objections to Frequentism](http://www.statisticool.com/objectionstofrequentism.htm)... are exagerrated :-)
 
-- [Statement on p-values from the American Statistical Association ](http://www.amstat.org/asa/files/pdfs/P-ValueStatement.pdf)
+- [Statement on p-values from the American Statistical Association](http://www.amstat.org/asa/files/pdfs/P-ValueStatement.pdf)
 
 ## Teaching statistics
 
-- [Why do we make statistics so hard for our students? | Scientist Sees Squirrel](https://scientistseessquirrel.wordpress.com/2015/10/06/why-do-we-make-statistics-so-hard-for-our-students/)
+- [Why do we make statistics so hard for our students? - Scientist Sees Squirrel](https://scientistseessquirrel.wordpress.com/2015/10/06/why-do-we-make-statistics-so-hard-for-our-students/)
 
-- [The levels of data science class | Simply Statistics](http://simplystatistics.org/2017/03/16/evo-ds-class/)
+- [The levels of data science class - Simply Statistics](http://simplystatistics.org/2017/03/16/evo-ds-class/)
 
-- [Let’s give statistics the attention it deserves | Methagora](http://blogs.nature.com/methagora/2013/08/giving_statistics_the_attention_it_deserves.html)
+- [Let’s give statistics the attention it deserves - Methagora](http://blogs.nature.com/methagora/2013/08/giving_statistics_the_attention_it_deserves.html)
 
 ## Bayesian statistics
 
@@ -69,6 +69,6 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 
 - [7 days, 7 statistical misconceptions](https://threadreaderapp.com/thread/1051575138334990337.html)
 
-- [Should I use FST, G’ST or D? | Molecular Ecologist](http://www.molecularecologist.com/2011/03/should-i-use-fst-gst-or-d-2/)
+- [Should I use FST, G’ST or D? - Molecular Ecologist](http://www.molecularecologist.com/2011/03/should-i-use-fst-gst-or-d-2/)
 
 - [Why You Must Plot Your Growth Data On Semi-log Scale](http://schaechter.asmblog.org/schaechter/2018/07/why-you-must-plot-your-growth-data-on-semi-log-graph-paper.html)

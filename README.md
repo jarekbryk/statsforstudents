@@ -1,4 +1,4 @@
-List of online resources about statistics, aimed at undergraduates but useful to anyone. PRs welcome!
+List of online resources about statistics, aimed at undergraduates but (hopefully) useful to anyone. PRs welcome!
 
 ## Four great papers
 

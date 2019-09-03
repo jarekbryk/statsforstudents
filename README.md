@@ -33,6 +33,8 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 
 - [Seeing Theory - a Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu)
 
+- [Teacups, giraffes, & statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html) - yes, I know, but just click there (also, examples use R in-browser).
+
 - [Interpreting Cohen's d effect size an interactive visualization](https://rpsychologist.com/d3/cohend/) (don't miss the visualisations on correlations and power)
 
 - [Visualizing Bayes Theorem](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
@@ -72,3 +74,5 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 - [Should I use FST, G’ST or D? - Molecular Ecologist](http://www.molecularecologist.com/2011/03/should-i-use-fst-gst-or-d-2/)
 
 - [Why You Must Plot Your Growth Data On Semi-log Scale](http://schaechter.asmblog.org/schaechter/2018/07/why-you-must-plot-your-growth-data-on-semi-log-graph-paper.html)
+
+- [A non-technical guide to performing power analysis in R](https://www.youtube.com/watch?v=ZIjOG8LTTh8&feature=youtu.be) by Dan Quintana (a YouTube codethrough)

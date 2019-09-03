@@ -35,6 +35,8 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 
 - [Teacups, giraffes, & statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html) - yes, I know, but just click there (also, examples use R in-browser).
 
+- [The Permutation Test: A Visual Explanation of Statistical Testing](https://www.jwilber.me/permutationtest/) by Jared Wilber (also with animals...)
+
 - [Interpreting Cohen's d effect size an interactive visualization](https://rpsychologist.com/d3/cohend/) (don't miss the visualisations on correlations and power)
 
 - [Visualizing Bayes Theorem](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)

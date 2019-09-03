@@ -1,9 +1,11 @@
-## Four great papers
+## Five great papers
 
 1.	Cumming, G., Fidler, F. & Vaux, D. L. [Error bars in experimental biology.](http://jcb.rupress.org/content/jcb/177/1/7.full.pdf) J Cell Biol 177, 7–11 (2007).
 2.	Weissgerber, T. L., Milic, N. M., Winham, S. J. & Garovic, V. D. [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm.](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002128&type=printable) PLoS Biol 13, e1002128–10 (2015).
 3. Colquhoun, D. [An investigation of the false discovery rate and the misinterpretation of p-values.](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.140216) Royal Society Open Science 1, 140216–140216 (2014).
 4. Lakens, D., Adolfi, F. G., Albers, C. J., Anvari, F., Apps, M. A. J., Argamon, S. E., … Zwaan, R. A. [Justify your alpha.](https://psyarxiv.com/9s3y6) Nature Human Behaviour, 2(3), 168 (2018).
+5. Menge, D. N. L., MacPherson, A. C., Bytnerowicz, T. A., Quebbeman, A. W., Schwartz, N. B., Taylor, B. N., & Wolf, A. A. (2018). [Logarithmic scales in ecological data presentation may cause misinterpretation.](https://rdcu.be/234I) Nature Ecology & Evolution, 2(9), 1393–1402 [about the paper](https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/36503-eschew-logarithmic-obfuscation)
+
 
 ## Four great (text)books on statistics and (sometimes) R
 

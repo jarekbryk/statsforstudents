@@ -1,3 +1,8 @@
+Stats for students (and everybody else)
+---------------
+
+A selection of resources about statistics, with a slight emphasis on R.
+
 ### Five great papers
 
 1.	Cumming, G., Fidler, F. & Vaux, D. L. [Error bars in experimental biology.](http://jcb.rupress.org/content/jcb/177/1/7.full.pdf) J Cell Biol 177, 7–11 (2007).

@@ -11,13 +11,15 @@ A selection of resources about statistics, with a slight emphasis on R.
 4. Lakens, D., Adolfi, F. G., Albers, C. J., Anvari, F., Apps, M. A. J., Argamon, S. E., … Zwaan, R. A. [Justify your alpha.](https://psyarxiv.com/9s3y6) Nature Human Behaviour, 2(3), 168 (2018).
 5. Menge, D. N. L., MacPherson, A. C., Bytnerowicz, T. A., Quebbeman, A. W., Schwartz, N. B., Taylor, B. N., & Wolf, A. A. (2018). [Logarithmic scales in ecological data presentation may cause misinterpretation.](https://rdcu.be/234I) Nature Ecology & Evolution, 2(9), 1393–1402 [about the paper](https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/36503-eschew-logarithmic-obfuscation)
 
-### Four great (text)books on statistics and (sometimes) R
+### Five great (text)books on statistics and (sometimes) R
 
 - [Modern Dive: An Introduction to Statistical and Data Sciences via R](https://moderndive.com) by Chester Ismay and Albert Y. Kim (free)
 
 - [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes and Wolfgang Huber (free)
 
 - [Learning Statistics with R](http://www.compcogscisydney.org/learning-statistics-with-r/) by Danielle Navarro (free)
+
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin (free)
 
 - [The Art of Statistics: Learning from Data](https://www.amazon.co.uk/dp/0241398630/) by David Spiegelhalter
 

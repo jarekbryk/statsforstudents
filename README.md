@@ -63,7 +63,7 @@ Jeff Leeks (co-)runs multiple courses online, but if I had to pick one, it would
 
 - [Why do we make statistics so hard for our students? - Scientist Sees Squirrel](https://scientistseessquirrel.wordpress.com/2015/10/06/why-do-we-make-statistics-so-hard-for-our-students/)
 
-- [The levels of data science class - Simply Statistics](http://simplystatistics.org/2017/03/16/evo-ds-class/)
+- [The levels of data science class - Simply Statistics](https://simplystatistics.org/posts/2017-03-16-evo-ds-class/)
 
 - [Let’s give statistics the attention it deserves - Methagora](http://blogs.nature.com/methagora/2013/08/giving_statistics_the_attention_it_deserves.html)
 

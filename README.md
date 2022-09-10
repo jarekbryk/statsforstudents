@@ -11,7 +11,9 @@ A selection of resources about statistics, with a slight emphasis on R.
 4. Lakens, D., Adolfi, F. G., Albers, C. J., Anvari, F., Apps, M. A. J., Argamon, S. E., … Zwaan, R. A. [Justify your alpha.](https://psyarxiv.com/9s3y6) Nature Human Behaviour, 2(3), 168 (2018).
 5. Menge, D. N. L., MacPherson, A. C., Bytnerowicz, T. A., Quebbeman, A. W., Schwartz, N. B., Taylor, B. N., & Wolf, A. A. (2018). [Logarithmic scales in ecological data presentation may cause misinterpretation.](https://rdcu.be/234I) Nature Ecology & Evolution, 2(9), 1393–1402 [about the paper](https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/36503-eschew-logarithmic-obfuscation)
 
-### Five great (text)books on statistics and (sometimes) R
+### Six great (text)books on statistics and (sometimes) R
+
+- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/index.html) by Daniel Lakens (free) - if you use only one thing from this website, start with this one
 
 - [Modern Dive: An Introduction to Statistical and Data Sciences via R](https://moderndive.com) by Chester Ismay and Albert Y. Kim (free)
 
